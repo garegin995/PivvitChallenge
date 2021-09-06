@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-form @submit="onSubmit" @reset="onReset" >
+    <b-form @submit="onSubmit" >
       <b-form-group id="input-group-2" label="Donor name:" label-for="input-2">
         <b-form-input
           id="input-2"
