@@ -1,1 +1,1 @@
-# PivvitChallenge
+for having default Campaigns, please run *php artisan db:seed*
